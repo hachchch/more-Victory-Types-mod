@@ -1,0 +1,24 @@
+[
+    {
+        "name": "民族",
+        "victoryScreenHeader": "Complete all the terraformer parts\nto win!",
+        "milestones": ["Build []"],
+        "victoryString": "You have achieved victory through mastery of Science! With the Terraformer complete, you can start the arduous process of stabilising the Earth's systems to make them amenable for human life. It could take centuries, but your descendants will know that it was here that the tide was turned.\n\nIn the meantime, a Solar Shade can literally block out the sun for those that would oppose you...",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    },
+    {
+        "name": "Religious",
+        "hiddenInVictoryScreen": false,
+		"victoryScreenHeader": "Become the dominant religion\nin every city of the world to win!",
+        "milestones": ["Become the world religion"],
+        "victoryString": "You have achieved victory through the power of faith and conviction. All the nations have submitted to your teachings, for better or worse. Rejoice! For your faith has converted the world.",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    },
+    {
+        "name": "掌握",
+        "victoryScreenHeader": "Destroy all enemies\nto win!",
+        "milestones": ["Capture all the original capitals of major civilizations in the game"],
+        "victoryString": "The world has been convulsed by war. Many great and powerful civilizations have fallen, but you have survived - and emerged victorious! The world will long remember your glorious triumph!",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    },
+]
