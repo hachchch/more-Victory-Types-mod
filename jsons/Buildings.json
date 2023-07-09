@@ -3,7 +3,7 @@
                 "name": "世界民族タワー",
                 "isNationalWonder": true,
                 "cost": 1000,
-                "uniques": ["Requires at least [25] population","Triggers a global alert upon build start","Triggers a global alert upon completion","Can only be built [in Capital]","Requires a [大消費地] in at least [6] cities"],
+                "uniques": ["Requires at least [25] population","Triggers a global alert upon build start","Triggers a global alert upon completion","Can only be built [in capital]","Requires a [大消費地] in at least [6] cities"],
                 "quote": "Population wins",
         },
         {
