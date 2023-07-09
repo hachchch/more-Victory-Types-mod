@@ -2,7 +2,7 @@
     {
         "name": "民族",
         "victoryScreenHeader": "Complete all the terraformer parts\nto win!",
-        "milestones": ["Build []"],
+        "milestones": ["Build [世界民族タワー]"],
         "victoryString": "You have achieved victory through mastery of Science! With the Terraformer complete, you can start the arduous process of stabilising the Earth's systems to make them amenable for human life. It could take centuries, but your descendants will know that it was here that the tide was turned.\n\nIn the meantime, a Solar Shade can literally block out the sun for those that would oppose you...",
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
     },
