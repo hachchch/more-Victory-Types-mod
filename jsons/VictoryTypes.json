@@ -24,8 +24,8 @@
     {
 	"name": "Conquered Market",
         "victoryScreenHeader": "Complete all the terraformer parts\nto win!",
-        "milestones": ["Build [Golden Roof]","Build [Diamond Flooring]","Build []","Build [Crystal Decoration]"],
-        "victoryString": "Victory has been achieved by population! 50% of the world's population now belongs to your country, and now the official language of the world is your country's language, and the culture and discoveries that represent humanity belong to your country is quoted. It is as if imperialism has already been achieved.",
+        "milestones": ["Build [Golden Roof]","Build [Diamond Flooring]","Build [Emerald Wall]","Build [Crystal Decoration]"],
+        "victoryString": "You have monopolized the market with overwhelming economic power and built a mansion of jewelry to show off your authority. Nowadays, it is the most visited tourist destination, where everything from around the world is gathered.",
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
     },
 ]
