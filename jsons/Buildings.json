@@ -28,18 +28,22 @@
         },
         {
                 "name": "Golden Roof",
-                "uniques": ["Unsellable","Consumes [1] [Gold Ore]","[+1 Gold] from each Trade Route"],
+		"cost": 1,
+                "uniques": ["Unbuildable","Unsellable","Consumes [1] [Gold Ore]","[+1 Gold] from each Trade Route"],
         },
         {
                 "name": "Diamond Flooring",
-                "uniques": ["Unsellable","Consumes [1] [Jewelry]","[Gold] cost of purchasing [Civilian] units [-50]%"],
+		"cost": 1,
+                "uniques": ["Unbuildable","Unsellable","Consumes [1] [Jewelry]","[Gold] cost of purchasing [Civilian] units [-50]%"],
         },
         {
                 "name": "Emerald Wall",
-                "uniques": ["Unsellable","Consumes [1] [Gems]","[+250 Gold] whenever a Great Person is expended"],
+		"cost": 1,
+                "uniques": ["Unbuildable","Unsellable","Consumes [1] [Gems]","[+250 Gold] whenever a Great Person is expended"],
         },
         {
                 "name": "Crystal Decoration",
-                "uniques": ["Unsellable","Consumes [1] [Porcelain]","Production to [Gold] conversion in cities changed by [+100]%"],
+		"cost": 1,
+                "uniques": ["Unbuildable","Unsellable","Consumes [1] [Porcelain]","Production to [Gold] conversion in cities changed by [+100]%"],
         },
 ]
