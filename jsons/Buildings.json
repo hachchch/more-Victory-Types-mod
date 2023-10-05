@@ -1,20 +1,5 @@
 [
         {
-                "name": "Palace",
-		"isNationalWonder": true,
-		"production": 3,
-		"science": 3,
-		"gold": 3,
-		"culture": 1,
-		"cityStrength": 2,
-		"cost": 1,
-		"uniques": ["Indicates the capital city",
-                        "May buy [Golden Roof] buildings for [10000] [Gold] [in capital]",
-                "May buy [Diamond Flooring] buildings for [2500] [Gold] [in capital]",
-                "May buy [Emerald Wall] buildings for [5000] [Gold] [in capital]",
-                "May buy [Crystal Decoration] buildings for [30000] [Gold] [in capital]"]
-        },
-        {
                 "name": "World Symbol Tower",
                 "isNationalWonder": true,
                 "cost": 1000,
@@ -29,21 +14,21 @@
         {
                 "name": "Golden Roof",
 		"cost": 1,
-                "uniques": ["Unbuildable","Unsellable","Consumes [1] [Gold Ore]","[+1 Gold] from each Trade Route"],
+                "uniques": ["Can be purchased for [10000] [Gold] [in capital]","Unbuildable","Unsellable","Consumes [1] [Gold Ore]","[+1 Gold] from each Trade Route"],
         },
         {
                 "name": "Diamond Flooring",
 		"cost": 1,
-                "uniques": ["Unbuildable","Unsellable","Consumes [1] [Jewelry]","[Gold] cost of purchasing [Civilian] units [-50]%"],
+                "uniques": ["Can be purchased for [2500] [Gold] [in capital]","Unbuildable","Unsellable","Consumes [1] [Jewelry]","[Gold] cost of purchasing [Civilian] units [-50]%"],
         },
         {
                 "name": "Emerald Wall",
 		"cost": 1,
-                "uniques": ["Unbuildable","Unsellable","Consumes [1] [Gems]","[+250 Gold] whenever a Great Person is expended"],
+                "uniques": ["Can be purchased for [5000] [Gold] [in capital]","Unbuildable","Unsellable","Consumes [1] [Gems]","[+250 Gold] whenever a Great Person is expended"],
         },
         {
                 "name": "Crystal Decoration",
 		"cost": 1,
-                "uniques": ["Unbuildable","Unsellable","Consumes [1] [Porcelain]","Production to [Gold] conversion in cities changed by [+100]%"],
+                "uniques": ["Can be purchased for [30000] [Gold] [in capital]","Unbuildable","Unsellable","Consumes [1] [Porcelain]","Production to [Gold] conversion in cities changed by [+100]%"],
         },
 ]
