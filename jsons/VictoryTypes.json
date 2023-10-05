@@ -1,9 +1,9 @@
 [
     {
-        "name": "民族",
+        "name": "Race",
         "victoryScreenHeader": "Complete all the terraformer parts\nto win!",
-        "milestones": ["Build [世界民族タワー]"],
-        "victoryString": "You have achieved victory through mastery of Science! With the Terraformer complete, you can start the arduous process of stabilising the Earth's systems to make them amenable for human life. It could take centuries, but your descendants will know that it was here that the tide was turned.\n\nIn the meantime, a Solar Shade can literally block out the sun for those that would oppose you...",
+        "milestones": ["Build [World Symbol Tower]"],
+        "victoryString": "Victory has been achieved by population! 50% of the world's population now belongs to your country, and now the official language of the world is your country's language, and the culture and discoveries that represent humanity belong to your country is quoted. It is as if imperialism has already been achieved.",
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
     },
     {
@@ -15,7 +15,7 @@
         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
     },
     {
-        "name": "掌握",
+        "name": "Seizing",
         "victoryScreenHeader": "Destroy all enemies\nto win!",
         "milestones": ["Capture all capitals"],
         "victoryString": "The world has been convulsed by war. Many great and powerful civilizations have fallen, but you have survived - and emerged victorious! The world will long remember your glorious triumph!",
