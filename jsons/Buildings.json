@@ -1,5 +1,20 @@
 [
         {
+                "name": "Palace",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Indicates the capital city",
+                        "May buy [Golden Roof] buildings for [10000] [Gold] [in capital]",
+                "May buy [Diamond Flooring] buildings for [2500] [Gold] [in capital]",
+                "May buy [Emerald Wall] buildings for [5000] [Gold] [in capital]",
+                "May buy [Crystal Decoration] buildings for [30000] [Gold] [in capital]"]
+        },
+        {
                 "name": "World Symbol Tower",
                 "isNationalWonder": true,
                 "cost": 1000,
@@ -10,5 +25,21 @@
                 "name": "Hyperurbanization",
                 "cost": 1000,
                 "uniques": ["Requires at least [15] population","Triggers a global alert upon build start","Triggers a global alert upon completion","Limited to [6] per Civilization","[+10]% [Food] [in this city]","[+1 Food] from all [Gold] buildings"],
-        }
+        },
+        {
+                "name": "Golden Roof",
+                "uniques": ["Unbuildable","Unsellable","Consumes [1] [Gold Ore]","[+1 Gold] from each Trade Route"],
+        },
+        {
+                "name": "Diamond Flooring",
+                "uniques": ["Unbuildable","Unsellable","Consumes [1] [Jewelry]","[Gold] cost of purchasing [Civilian] units [-50]%"],
+        },
+        {
+                "name": "Emerald Wall",
+                "uniques": ["Unbuildable","Unsellable","Consumes [1] [Gems]","[+250 Gold] whenever a Great Person is expended"],
+        },
+        {
+                "name": "Crystal Decoration",
+                "uniques": ["Unbuildable","Unsellable","Consumes [1] [Porcelain]","Production to [Gold] conversion in cities changed by [+100]%"],
+        },
 ]
