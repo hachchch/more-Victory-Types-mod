@@ -14,21 +14,25 @@
         {
                 "name": "Golden Roof",
 		"cost": 99999999,
+		"isNationalWonder": true,
                 "uniques": ["Unbuildable","Can be purchased with [Gold] [in capital]","Can be purchased for [10000] [Gold] [in capital]","Unsellable","Consumes [1] [Gold Ore]","[+1 Gold] from each Trade Route"],
         },
         {
                 "name": "Diamond Flooring",
 		"cost": 99999999,
+		"isNationalWonder": true,
                 "uniques": ["Unbuildable","Can be purchased with [Gold] [in capital]","Can be purchased for [2500] [Gold] [in capital]","Unsellable","Consumes [1] [Jewelry]","[Gold] cost of purchasing [Civilian] units [-50]%"],
         },
         {
                 "name": "Emerald Wall",
 		"cost": 99999999,
+		"isNationalWonder": true,
                 "uniques": ["Unbuildable","Can be purchased with [Gold] [in capital]","Can be purchased for [5000] [Gold] [in capital]","Unsellable","Consumes [1] [Gems]","[+250 Gold] whenever a Great Person is expended"],
         },
         {
                 "name": "Crystal Decoration",
 		"cost": 99999999,
+		"isNationalWonder": true,
                 "uniques": ["Unbuildable","Can be purchased with [Gold] [in capital]","Can be purchased for [30000] [Gold] [in capital]","Unsellable","Consumes [1] [Porcelain]","Production to [Gold] conversion in cities changed by [+100]%"],
         },
 ]
